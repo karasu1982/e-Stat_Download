@@ -9,6 +9,7 @@
 そこで、必要となるデータをAPIを用いて一括で取得
 
 ## 処理内容
+https://github.com/karasu1982/e-Stat_Download/blob/main/e_StatDownload.ipynb
 
 ## 参考URL
 * https://www.e-stat.go.jp/stat-search
